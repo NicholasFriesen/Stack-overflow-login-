@@ -38,7 +38,7 @@ def stack_overflow_login(mail, passw):
 
 def main():
     print("1")
-    stack_overflow_login('123@mail.com', 'pass code')
+    stack_overflow_login('hello@freezen.me', 'SuperGoodPassword!3970')
     print('done')
     
 
